@@ -1,0 +1,558 @@
+/* all common css start */
+*{
+    margin: 0;
+    padding: 0;
+    outline: o;
+    box-sizing: border-box;
+}
+a,a:hover{
+    text-decoration: none;
+    display: inline-block;
+}
+ul,ol{
+    list-style-type: none;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+}
+
+/* all common css end */
+
+/* header part start  */
+.commonbtn a{
+    padding: 20px 30px;
+    background: red;
+    color: white;
+    border-radius: 10px;
+}
+.nav-link{
+    font-size:18px;
+    font-family: "Nunito", serif;
+    font-weight: 700;
+    color: #143445;
+}
+
+/* header part end */
+
+/* banerpart satart  */
+.bannerpart{
+    width: 100%;
+    background-image: url(../images/slider.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 150px;
+}
+.newtext h4{
+    font-size: 16px;
+    font-family: "Nunito", serif;
+    font-weight: 700;
+    color: #15254A;
+}
+.newtext h1{
+    font-size: 57px;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    color: #000000;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+.jkhvdfu{
+    color: red;
+}
+.newtext p{
+    font-size: 18px;
+    font-family: "Nunito", serif;
+    font-weight: 400;
+    color: #2C3B5E;
+}
+/* banerpart end */
+
+/* living part star  */
+.livingpart{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.livingimg img{
+        height: 700px;
+        width: 557px;
+}
+.livingtexttt{
+    display: flex;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.livingtext{
+padding-top: 20px;
+padding-bottom: 20px;
+}
+
+.livingtext h4{
+    font-style: 15px;
+    font-family: "Nunito", serif;
+    font-weight: 700;
+    color: #FF5A3C;
+}
+.livingtext h3{
+    font-size: 43px;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    color: #0A2C3D;
+    padding-top: 15px;
+}
+.kjfhgu h3{
+    font-size: 15px;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    color: #0A2C3D;
+}
+.kjfhgu p{
+    font-size: 18px;
+    font-family: "Nunito", serif;
+    font-weight: 400;
+    color: #5C727D;
+    padding-top: 10px;
+}
+
+
+.prefact{
+    display: flex;
+    justify-content: space-between;
+    background-color: red;
+    padding: 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+.preafact-right h3{
+    font-size: 15px;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    color: #FFFFFF;
+    padding-left: 12px;
+}
+.preafact-right p{
+    font-size: 18px;
+    font-family: "Nunito", serif;
+    font-weight: 400;
+    color: #FFFFFF;
+    padding-top: 10px;
+    padding-left: 12px;
+}
+
+
+.bulit{
+    display: flex;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.bulit-right h3{
+    font-size: 15px;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    color: #0A2C3D;
+}
+.bulit-right p{
+    font-size: 18px;
+    font-family: "Nunito", serif;
+    font-weight: 400;
+    color: #5C727D;
+    padding-top: 10px;
+}
+/* living part end */
+
+/* macking part start  */
+.mackingpart{
+    padding: 100px;
+    background-image: url(../images/slider.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.hfiuhgirugh{
+    display: flex;
+    padding-top: 30px;
+}
+.ufhrur{
+    display: flex;
+    
+}
+.macingtext h3{
+    font-size: 15px;
+    font-family: "Nunito", serif;
+    font-weight: 600;
+    color: #FF5A3C;
+}
+.macingtext h2{
+    font-size: 45px;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    color: #0A2C3D;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 56px;
+}
+.macingtext p{
+    font-size: 17px;
+    font-family: "Nunito", serif;
+    font-weight: 400;
+    color: #2C3B5E;
+    padding-right: 100px;
+    
+}
+
+.eyfgifui i{
+    font-size: 17px;
+    background-color: #FF5A3C;
+    padding: 5px;
+    border-radius: 17px;
+    height: 25px;
+    width: 25px;
+    margin-top: 10px;
+}
+.ehwfhu p{
+    font-size: 18px;
+    color: #0A2C3D;
+    font-family: "Nunito", serif;
+    font-weight: 700;
+    padding-left: 7px;
+}
+
+
+
+.ufhrufrr{
+    display: flex;
+}
+.eyfgifuii i{
+    font-size: 17px;
+    background-color: #FF5A3C;
+    padding: 5px;
+    border-radius: 17px;
+    height: 25px;
+    width: 25px;
+    margin-top: 10px;
+}
+.ehwfhuu p{
+    font-size: 18px;
+    color: #0A2C3D;
+    font-family: "Nunito", serif;
+    font-weight: 700;
+    padding-left: 7px;
+   
+}
+
+
+
+.ufhrurur{
+    display: flex;
+    padding-right: 36px;
+}
+
+.ufhrurem{
+    display: flex;
+    padding-right: 36px;
+}
+.rokto{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+   transform: translate(-50%,-50%);
+   border-radius: 80px;
+
+}
+/* macking part end */
+
+/* Our Main Focus part start  */
+.mainfocus-part{
+    text-align: center;
+   
+}
+.MainFocus{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.mainfocus-part h4{
+    font-size: 15px;
+    font-family: "Nunito", serif;
+    font-weight: 700;
+    color: #FF5A3C;
+}
+.mainfocus-part h3{
+    font-size: 45px;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    color: #0A2C3D;
+    padding-top: 20px;
+}
+.OurServices{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    flex-wrap: wrap;
+}
+/* ....  */
+.ourservice-part{
+    width: 30%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+.ourservice-part h4{
+    font-size: 25px;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    color: #000000;
+
+}
+.ourservice-part p{
+    font-size: 15px;
+    font-family: "Nunito", serif;
+    font-weight: 400;
+    color: #5C727D;
+    padding-top: 10px;
+    line-height: 30px;
+
+}
+.ourservice-part a{
+    font-size: 18px;
+    font-family: "Nunito", serif;
+    font-weight: 700;
+    color: #FF5A3C;
+    padding-top: 20px;
+}
+/* .....  */
+.ourservice-part2{
+    width: 30%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+.ourservice-part2 h4{
+    font-size: 25px;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    color: #000000;
+}
+.ourservice-part2 p{
+    font-size: 15px;
+    font-family: "Nunito", serif;
+    font-weight: 400;
+    color: #5C727D;
+    padding-top: 10px;
+    line-height: 30px;
+}
+.ourservice-part2 a{
+    font-size: 18px;
+    font-family: "Nunito", serif;
+    font-weight: 700;
+    color: #FF5A3C;
+    padding-top: 20px;
+}
+/* ....  */
+.ourservice-part3{
+    width: 30%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+.ourservice-part3 h4{
+    font-size: 25px;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    color: #000000;
+}
+.ourservice-part3 p{
+    font-size: 15px;
+    font-family: "Nunito", serif;
+    font-weight: 400;
+    color: #5C727D;
+    padding-top: 10px;
+    line-height: 30px;
+}
+.ourservice-part3 a{
+    font-size: 18px;
+    font-family: "Nunito", serif;
+    font-weight: 700;
+    color: #FF5A3C;
+    padding-top: 20px;
+}
+
+/* Our Main Focus part end */
+
+
+/* apartments part start  */
+
+.Apartmentspart-top{
+    text-align: center;
+}
+.Apartmentspart-top h4{
+    font-size: 15px;
+   font-family: "Nunito", serif;
+   font-weight: 700;
+   color: #FF5A3C;
+
+}
+.Apartmentspart-top h3{
+    font-size: 45px;
+    font-family: "Poppins", serif;
+   font-weight: 700;
+   color: #0A2C3D;
+   padding-top: 20px;
+}
+.Apartmentspart-menu {
+    padding-top: 20px;
+}
+.Apartmentspart-menu ul ,li, a{
+    display: inline-block;
+    font-size: 20px;
+    font-family: "Nunito", serif;
+    font-weight: 700;
+    padding-right: 10px;
+    color: #0A2C3D;
+    
+}
+.newmenu a{
+    color: red;
+}
+
+/* ...  */
+
+.Apartmentspart-botoom{
+    display: flex;
+    padding-top: 50px;
+}
+.Apartmentspart-botoom-left{
+    padding: 50px;
+    background-color: #d2d6d8;
+    border-radius: 10px;
+}
+.Apartmentspart-botoom-left h3{
+   font-size: 30px;
+   font-family: "Poppins", serif;
+   font-weight: 700;
+   color: #000000;
+  
+}
+.Apartmentspart-botoom-left p{
+   font-size: 16px;
+   font-family: "Nunito", serif;
+   font-weight: 400;
+   color: #5C727D;
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+.Apartmentspart-botoom-left h4{
+    font-size: 15px;
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    color: #000000;
+    padding-top: 20px;
+ }
+ .apancolor{
+    color: #5C727D;
+ }
+ .Apartmentspart-botoom-right img{
+        height: 450px;
+        width: 660px;
+ }
+/* apartments part end  */
+
+/* Dream House part star  */
+.dreampart{
+background: #d8d8da;
+ height: 500px;
+ padding-top: 50px;
+ margin-top: 80px;
+ margin-bottom: 50px;
+}
+.dreamtext h4{
+    font-size: 15px;
+    color: #FF5A3C;
+    font-family: "Nunito", serif;
+    font-weight: 700;
+}
+.dreamtext h3{
+    font-size: 45px;
+    color: #000000;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    padding-top: 20px;
+}
+/* ...  */
+
+.dreamhousepart{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top: 50px;
+
+    }
+.dreamhousepart-col1{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    background: white;
+    width: 30%;
+    padding: 20px;
+    border-radius: 10px;
+}
+.dreamhousepart-col1 img{
+  width: 100%;
+}
+.dreamhousepart-col1 h4{
+    font-size: 14px;
+    font-family: "Nunito", serif;
+    font-weight: 400;
+    color: #5C727D;
+    padding-top: 20px;
+}
+.dreamhousepart-col1 h3{
+    font-size: 20px;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    color: #0F1B43;
+    padding-top: 20px;
+}
+.dreamhousepart-col1 a{
+    font-size: 12px;
+    font-family: "Nunito", serif;
+    font-weight: 400;
+    color: #FF5A3C;
+    padding-top: 20px;
+}
+/* Dream House part end */
+
+/* Explore Below part star  */
+.ExploreBelow{
+    padding: 100px;
+    background: #F3F4F7;
+    margin-top: 216px;
+}
+.ExploreBelow-botoom{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.btnimg img{
+        height: 416px;
+        width: 737px;
+}
+.btnhhsd img{
+       width: 100%;
+}
+.ExploreBelow-botoom-col-right{
+    padding: 30px;
+    background: white;
+}
+
+/* Explore Below part end  */
